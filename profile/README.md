@@ -22,3 +22,8 @@ Infrastructure that understands *why* it fails, learns from past incidents, and 
 
 - team@noether.ai
 
+## Backlog & Research
+
+- Backlog / roadmap: https://github.com/orgs/noether/projects/1
+
+- Research notes: https://github.com/noether/research
