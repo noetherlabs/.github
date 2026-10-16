@@ -1,29 +1,8 @@
-# noether — Reliability Intelligence
+# Noether Labs
 
-noether builds causal, verifier-backed reliability intelligence for modern enterprises.
+Research tools for reliable autonomy, starting with optical sensing and control.
 
-We turn incidents into auditable policies and continuously reduce recurrence risk.
+We study how systems measure, act, and recover when their models are wrong.
 
-## Vision
-
-Infrastructure that understands *why* it fails, learns from past incidents, and safely prevents recurrences.
-
-## Quick Links
-
-- Website: https://noether.ai
-
-- Docs: https://docs.noether.ai
-
-- Research: https://shinahlabs.org/noether
-
-- Careers: https://noether.ai/careers
-
-## Contact
-
-- team@noether.ai
-
-## Backlog & Research
-
-- Backlog / roadmap: https://github.com/orgs/noether/projects/1
-
-- Research notes: https://github.com/noether/research
+- [**noether-ao**](https://github.com/noetherlabs/noether-ao): Differentiable adaptive optics with reproducible controller comparisons, sensor noise, delays, and fault injection.
+- [**ProbeBench**](https://github.com/noetherlabs/probebench): Sequential optical calibration under measurement ambiguity, sensor noise, and limited photon budgets.
