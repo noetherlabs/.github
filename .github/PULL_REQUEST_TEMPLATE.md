@@ -1,12 +1,15 @@
-## What
+## Change
 
-Brief description of the change.
+What behavior or documentation changes, and why?
 
-## Why
+## Verification
 
-Why this change is needed.
+- [ ] Relevant tests or reproduction commands are included
+- [ ] Units, assumptions and configuration are documented where applicable
+- [ ] Numerical results are derived from recorded runs, not typed into reports
+- [ ] Failed tests, adverse cases and limitations are described
+- [ ] No secrets or private data are included
 
 ## Notes
 
-Any additional context, migration notes, or checklist.
-
+Related issue, protocol, compatibility impact or follow-up work.

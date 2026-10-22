@@ -1,8 +1,19 @@
 # Noether Labs
 
-Research tools for reliable autonomy, starting with optical sensing and control.
+**Research software for reliable autonomy in precision optics.**
 
-We study how systems measure, act, and recover when their models are wrong.
+We work on optical systems that must infer what they cannot directly observe, act with delay, and recover when a model stops matching the physical world.
 
-- [**noether-ao**](https://github.com/noetherlabs/noether-ao): Differentiable adaptive optics with reproducible controller comparisons, sensor noise, delays, and fault injection.
-- [**ProbeBench**](https://github.com/noetherlabs/probebench): Sequential optical calibration under measurement ambiguity, sensor noise, and limited photon budgets.
+### Research systems
+
+| Project | Focus |
+| --- | --- |
+| [**Noether AO**](https://github.com/noetherlabs/noether-ao) | Differentiable adaptive-optics models, classical and learned controller comparisons, and fault experiments. |
+| [**ProbeBench**](https://github.com/noetherlabs/probebench) | Active optical calibration, measurement ambiguity, and sequential decisions under photon budgets. |
+| [**Noether Worlds**](https://github.com/noetherlabs/worlds) | Reduced-order optical communications control, telemetry, and safety-bounded runtime interfaces. |
+
+Our experiments emphasize explicit assumptions, reproducible measurements, independent physical checks, and reporting negative results alongside improvements.
+
+**Current boundary:** these are simulation and research systems; we do not yet claim physical-bench, on-sky, flight, or customer validation.
+
+[Noether AO results](https://github.com/noetherlabs/noether-ao/blob/main/docs/results.md) · [ProbeBench experiments](https://github.com/noetherlabs/probebench#retained-experiments) · [Noether Worlds](https://github.com/noetherlabs/worlds#current-20-seed-simulation-evidence)

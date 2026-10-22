@@ -1,15 +1,9 @@
 # Code of Conduct
 
-We are committed to providing a welcoming and inclusive environment for all contributors, regardless of background or experience level. We expect all community members to treat each other with respect and kindness.
+Noether Labs aims to maintain a technically rigorous, welcoming environment.
 
-## Our Standards
+Contributors are expected to treat others with respect, discuss work and evidence rather than personal attributes, make room for disagreement, and credit others' contributions. Harassment, intimidation, discrimination and disclosure of another person's private information are not acceptable.
 
-- Be respectful and inclusive in all interactions
-- Welcome newcomers and help them learn
-- Focus on constructive feedback and collaboration
-- Respect differing viewpoints and experiences
+Maintainers may edit or remove contributions or restrict participation where necessary to uphold these standards.
 
-## Contact
-
-For concerns or violations, please contact team@noether.ai
-
+For a private conduct concern, contact the maintainers through the current contact channel published by [Noether Labs](https://www.noether.one/). Do not post private incident details in a public issue.
