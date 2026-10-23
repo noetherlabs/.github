@@ -1,19 +1,16 @@
 # Noether Labs
 
-**Research software for reliable autonomy in precision optics.**
+**Adaptive optics, system identification & reliable control.**
 
-We work on optical systems that must infer what they cannot directly observe, act with delay, and recover when a model stops matching the physical world.
+We build research software for precision optical instruments: differentiable wavefront models, active calibration and reproducible experiments in closed-loop control.
 
-### Research systems
+### Research
 
-| Project | Focus |
+| Project | Work |
 | --- | --- |
-| [**Noether AO**](https://github.com/noetherlabs/noether-ao) | Differentiable adaptive-optics models, classical and learned controller comparisons, and fault experiments. |
-| [**ProbeBench**](https://github.com/noetherlabs/probebench) | Active optical calibration, measurement ambiguity, and sequential decisions under photon budgets. |
-| [**Noether Worlds**](https://github.com/noetherlabs/worlds) | Reduced-order optical communications control, telemetry, and safety-bounded runtime interfaces. |
+| [Noether AO](https://github.com/noetherlabs/noether-ao) | Wavefront propagation, predictive and learned controllers, fault experiments. |
+| [ProbeBench](https://github.com/noetherlabs/probebench) | Phase diversity, sequential calibration and measurement selection under photon budgets. |
 
-Our experiments emphasize explicit assumptions, reproducible measurements, independent physical checks, and reporting negative results alongside improvements.
+**Current directions:** controller-aware identification, instrument telemetry replay, calibration provenance, degradation monitoring and evidence-based control qualification.
 
-**Current boundary:** these are simulation and research systems; we do not yet claim physical-bench, on-sky, flight, or customer validation.
-
-[Noether AO results](https://github.com/noetherlabs/noether-ao/blob/main/docs/results.md) · [ProbeBench experiments](https://github.com/noetherlabs/probebench#retained-experiments) · [Noether Worlds](https://github.com/noetherlabs/worlds#current-20-seed-simulation-evidence)
+[Website](https://noether.one) · [AO results](https://github.com/noetherlabs/noether-ao/blob/main/docs/results.md) · [ProbeBench experiments](https://github.com/noetherlabs/probebench/blob/main/docs/parameter-selection-results.md)
